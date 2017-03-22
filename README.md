@@ -1,12 +1,40 @@
-# LABA - Corso prototyping A.A.2016-2017
+# Lezione 01
 
-Il repo contiene il materiale, le slide e gli esercizi eseguiti durante le lezioni di Prototyping dell' A.A.2016-2017 presso la [Libera Accademia di Belle Arti - LABA][laba].
+Lezione di introduzione al corso di Prototyping.
 
-## Elenco lezioni:
-Ogni lezione si trova su un branch (link riportati qui sotto).
+## Risorse:
+* Slide Lezione - [Download][lezione-01-d]
 
-* Lezione 01: *Introduzione* ([Branch][lezione-01-b] - [Download][lezione-01-z])
+## Software:
+* Axure - [Link][axure]
+* Principle - [Link][principle]
+* Flinto - [Link][flinto]
+* Adobe Experience Design CC - [Link][xd]
+* Kite - [Link][kite]
+* Adobe After Effects CC - [Link][ae]
+* Invision - [Link][invision]
+* Marvel - [Link][marvel]
 
-[laba]:            http://laba.edu/
-[lezione-01-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-01
-[lezione-01-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-01.zip
+## Libri:
+* Designing Interfaces: Patterns for Effective Interaction Design - [Link][design-interfaces]
+* About Face - The Essentials of Interaction Design - [Link][about-face]
+* Prototyping for Designers: Developing the Best Digital and Physical Products - [Link][prototyping-designers]
+
+## Links vari:
+* React Native - [Link][r-native]
+* Lottie - [Link][lottie]
+
+[lezione-01-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-01.zip
+[axure]:           https://www.axure.com/
+[principle]:       http://principleformac.com/
+[flinto]:          https://www.flinto.com/mac
+[xd]:              http://www.adobe.com/it/products/experience-design.html
+[ae]:              http://www.adobe.com/it/products/aftereffects.html
+[invision]:        https://www.invisionapp.com/
+[kite]:            https://kiteapp.co/
+[marvel]:          https://marvelapp.com/
+[design-interfaces]: https://www.amazon.it/Designing-Interfaces-Patterns-Effective-Interaction-ebook/dp/B004GTLFH8/ref=sr_1_1?ie=UTF8&qid=1490183929&sr=8-1&keywords=Designing+Interfaces+-+Patterns+for+Effective+Interaction+Design
+[about-face]: https://www.amazon.it/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_1?ie=UTF8&qid=1490183982&sr=8-1&keywords=About+Face+-+The+Essentials+of+Interaction+Design
+[prototyping-designers]: https://www.amazon.it/Prototyping-Designers-Developing-Physical-Products/dp/1491954086/ref=sr_1_1?ie=UTF8&qid=1490184020&sr=8-1&keywords=Prototyping+for+Designers
+[r-native]: https://facebook.github.io/react-native/
+[lottie]: http://airbnb.design/lottie/
