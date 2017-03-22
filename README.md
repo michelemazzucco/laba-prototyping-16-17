@@ -21,8 +21,13 @@ Lezione di introduzione al corso di Prototyping.
 * Prototyping for Designers: Developing the Best Digital and Physical Products - [Link][prototyping-designers]
 
 ## Links vari:
+* React - [Link][r]
 * React Native - [Link][r-native]
 * Lottie - [Link][lottie]
+* IDEO - [Link][ideo]
+* Louie Mantia - [Link][mantia]
+* Airbnb Design - [Link][airbnb]
+* Open Source Design - [Link][osd]
 
 [lezione-01-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-01.zip
 [axure]:           https://www.axure.com/
@@ -38,3 +43,8 @@ Lezione di introduzione al corso di Prototyping.
 [prototyping-designers]: https://www.amazon.it/Prototyping-Designers-Developing-Physical-Products/dp/1491954086/ref=sr_1_1?ie=UTF8&qid=1490184020&sr=8-1&keywords=Prototyping+for+Designers
 [r-native]: https://facebook.github.io/react-native/
 [lottie]: http://airbnb.design/lottie/
+[r]: https://facebook.github.io/react/
+[ideo]: https://www.ideo.com/eu
+[mantia]: http://louie.land
+[airbnb]: http://airbnb.design/
+[osd]: http://opensourcedesign.net/
