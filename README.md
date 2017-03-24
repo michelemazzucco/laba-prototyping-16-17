@@ -5,6 +5,9 @@ Il repo contiene il materiale, le slide e gli esercizi eseguiti durante le lezio
 ## Elenco lezioni:
 Ogni lezione si trova su un branch (link riportati qui sotto).
 
+### Programma corso
+Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
+
 * Lezione 01: *Introduzione* ([Branch][lezione-01-b] - [Download][lezione-01-z])
 
 [laba]:            http://laba.edu/
