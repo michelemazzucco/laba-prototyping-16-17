@@ -1,9 +1,6 @@
 # Lezione 01
 
-Lezione di introduzione al corso di Prototyping.
-
-### Programma corso
-Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
+Materiale e risorse presentati durante la seconda lezione del corso di Prototyping.
 
 ## Risorse:
 * Slide Lezione - [Download][lezione-02-s-d]
