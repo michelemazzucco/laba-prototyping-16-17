@@ -6,7 +6,7 @@ Lezione di introduzione al corso di Prototyping.
 Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
 
 ## Risorse:
-* Slide Lezione - [Download][lezione-01-d]
+* Slide Lezione - [Download][lezione-01-s-d]
 
 ## Software:
 * Axure - [Link][axure]
@@ -32,7 +32,7 @@ Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66
 * Airbnb Design - [Link][airbnb]
 * Open Source Design - [Link][osd]
 
-[lezione-01-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-01.zip
+[lezione-01-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-01/slide/slide-lezione-01.pdf
 [axure]:           https://www.axure.com/
 [principle]:       http://principleformac.com/
 [flinto]:          https://www.flinto.com/mac
