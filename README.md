@@ -6,48 +6,34 @@ Lezione di introduzione al corso di Prototyping.
 Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
 
 ## Risorse:
-* Slide Lezione - [Download][lezione-01-s-d]
+* Slide Lezione - [Download][lezione-02-s-d]
+* Esercizio in classe - [Download][lezione-02-e-d]
+* Esempio di custom lib - [Download][lib-example]
 
-## Software:
-* Axure - [Link][axure]
-* Principle - [Link][principle]
-* Flinto - [Link][flinto]
-* Adobe Experience Design CC - [Link][xd]
-* Kite - [Link][kite]
-* Adobe After Effects CC - [Link][ae]
-* Invision - [Link][invision]
-* Marvel - [Link][marvel]
+## Link utili per Axure:
+* Getting Started - [Link][getting-started]
+* Widget Libraries - [Link][w-libraries]
+* Demo & Esempi - [Link][demo]
+* Demo GDB - [Link][gdb]
 
-## Libri:
-* Designing Interfaces: Patterns for Effective Interaction Design - [Link][design-interfaces]
-* About Face - The Essentials of Interaction Design - [Link][about-face]
-* Prototyping for Designers: Developing the Best Digital and Physical Products - [Link][prototyping-designers]
+## Link Vari:
+* Elenco Prototyping tools - [Link][cooper]
+* Design in the Browser - [Link][browser-design]
+* Sketch symbol best practices (now that nested overrides are a thing) - [Link][symbols]
+* Sketch Symbol - Example [Link][example-symbol]
 
-## Links vari:
-* React - [Link][r]
-* React Native - [Link][r-native]
-* Lottie - [Link][lottie]
-* IDEO - [Link][ideo]
-* Louie Mantia - [Link][mantia]
-* Airbnb Design - [Link][airbnb]
-* Open Source Design - [Link][osd]
 
-[lezione-01-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-01/slide/slide-lezione-01.pdf
-[axure]:           https://www.axure.com/
-[principle]:       http://principleformac.com/
-[flinto]:          https://www.flinto.com/mac
-[xd]:              http://www.adobe.com/it/products/experience-design.html
-[ae]:              http://www.adobe.com/it/products/aftereffects.html
-[invision]:        https://www.invisionapp.com/
-[kite]:            https://kiteapp.co/
-[marvel]:          https://marvelapp.com/
-[design-interfaces]: https://www.amazon.it/Designing-Interfaces-Patterns-Effective-Interaction-ebook/dp/B004GTLFH8/ref=sr_1_1?ie=UTF8&qid=1490183929&sr=8-1&keywords=Designing+Interfaces+-+Patterns+for+Effective+Interaction+Design
-[about-face]: https://www.amazon.it/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_1?ie=UTF8&qid=1490183982&sr=8-1&keywords=About+Face+-+The+Essentials+of+Interaction+Design
-[prototyping-designers]: https://www.amazon.it/Prototyping-Designers-Developing-Physical-Products/dp/1491954086/ref=sr_1_1?ie=UTF8&qid=1490184020&sr=8-1&keywords=Prototyping+for+Designers
-[r-native]: https://facebook.github.io/react-native/
-[lottie]: http://airbnb.design/lottie/
-[r]: https://facebook.github.io/react/
-[ideo]: https://www.ideo.com/eu
-[mantia]: http://louie.land
-[airbnb]: http://airbnb.design/
-[osd]: http://opensourcedesign.net/
+
+
+[lezione-02-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-02/slide/slide-lezione-02.pdf
+[lezione-02-e-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-02/esercizio/axure_lezione-02.rp
+[lib-example]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-02/esercizio/custom_lib_example.rplib
+
+[w-libraries]: https://www.axure.com/support/download-widget-libraries
+[cooper]: https://www.cooper.com/prototyping-tools
+[demo]: http://8gxg6u.axshare.com/#g=1&p=product_demo
+[gdb]: http://fz6r0j.axshare.com/
+[getting-started]: https://www.axure.com/support/training/core/1-basics
+[symbols]: https://medium.com/@lloyd/sketch-symbols-best-practices-now-that-nested-overrides-are-a-thing-9b651d3fe1a4
+[browser-design]: https://blog.prototypr.io/stop-designing-in-sketch-design-in-the-browser-c102bcdcdbb
+[example-symbol]: https://www.uxpower.tools/freebies/
