@@ -1,4 +1,4 @@
-# Lezione 01
+# Lezione 02
 
 Materiale e risorse presentati durante la seconda lezione del corso di Prototyping.
 
