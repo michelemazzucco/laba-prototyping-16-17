@@ -18,6 +18,7 @@ Materiale e risorse presentati durante la terza lezione del corso di Prototyping
 ## Link Vari:
 * Xtensio - [Link][xtensio]
 * Creating Usability with Motion: The UX in Motion Manifesto - [Link][ux-manifesto]
+* Design without Ego | Davide "Folletto" Casali - [Link][ego-design]
 
 [lezione-03-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-02/slide/slide-lezione-03.pdf
 
@@ -38,3 +39,5 @@ Materiale e risorse presentati durante la terza lezione del corso di Prototyping
 [pr-tutorial]: http://principleformac.com/tutorial.html
 [xtensio]: https://xtensio.com/startup-tools/
 [ux-manifesto]: https://medium.com/@ux_in_motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+
+[ego-design]: https://www.youtube.com/watch?v=eYZoN_HqARc
