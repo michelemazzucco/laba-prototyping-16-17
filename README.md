@@ -10,9 +10,12 @@ Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66
 
 * Lezione 01: *Introduzione* ([Branch][lezione-01-b] - [Download][lezione-01-z])
 * Lezione 02 *Cosa è il prototipo?* ([Branch][lezione-02-b] - [Download][lezione-02-z])
+* Lezione 02 *Perchè prototipare?* ([Branch][lezione-03-b] - [Download][lezione-03-z])
 
 [laba]:            http://laba.edu/
 [lezione-01-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-01
 [lezione-01-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-01.zip
 [lezione-02-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-02
 [lezione-02-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-02.zip
+[lezione-03-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-03
+[lezione-03-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-03.zip
