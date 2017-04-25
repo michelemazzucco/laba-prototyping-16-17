@@ -1,43 +1,26 @@
-# Lezione 03
+# Lezione 04
 
-Materiale e risorse presentati durante la terza lezione del corso di Prototyping.
+Materiale e risorse presentati durante la quarta lezione del corso di Prototyping.
 
 ## Risorse:
-* Slide Lezione - [Download][lezione-03-s-d]
-* Esercizio 01 - [Download Sketch][ex-01-s] - [Download Principle][ex-01-p]
-* Esercizio 02 - [Download Sketch][ex-02-s] - [Download Principle][ex-02-p]
-* Esercizio 03 - [Download Sketch][ex-03-s] - [Download Principle][ex-03-p]
-* Esercizio 04 - [Download Sketch][ex-04-s] - [Download Principle][ex-04-p]
-* Esercizio 05 - [Download Sketch][ex-05-s] - [Download Principle][ex-05-p]
+* Slide Lezione - [Download][lezione-04-s-d]
+* Esercizio 01 - [Download Sketch][ex-01-s] - [Download Flinto][ex-01-f]
+* Esercizio 02 - [Download Sketch][ex-02-s] - [Download Flinto][ex-02-f]
+* Esercizio 03 - [Download Sketch][ex-03-s] - [Download Flinto][ex-03-f]
+* Esercizio 04 - [Download Sketch][ex-04-s] - [Download Flinto][ex-04-f]
+* Esercizio 05 - [Download Sketch][ex-05-s] - [Download Flinto][ex-05-f]
 
-## Link utili per Principle:
-* Principle Repo - [Link][pr-repo]
-* Principle Resources - [Link][pr-resources]
-* Principle Tutorial - [Link][pr-tutorial]
+[lezione-04-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/slide/slide-lezione-04.pdf
 
-## Link Vari:
-* Xtensio - [Link][xtensio]
-* Creating Usability with Motion: The UX in Motion Manifesto - [Link][ux-manifesto]
-* Design without Ego | Davide "Folletto" Casali - [Link][ego-design]
+[ex-01-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/01.sketch
+[ex-02-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/02.sketch
+[ex-03-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/03.sketch
+[ex-04-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/04.sketch
+[ex-05-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/05.sketch
 
-[lezione-03-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-02/slide/slide-lezione-03.pdf
-
-[ex-01-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/01.sketch
-[ex-02-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/02.sketch
-[ex-03-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/03.sketch
-[ex-04-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/04.sketch
-[ex-05-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/05.sketch
-
-[ex-01-p]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/01.prd
-[ex-02-p]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/02.prd
-[ex-03-p]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/03.prd
-[ex-04-p]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/04.prd
-[ex-05-p]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/05.prd
-
-[pr-repo]: http://principlerepo.com/
-[pr-resources]: http://principleformac.com/resources.html
-[pr-tutorial]: http://principleformac.com/tutorial.html
-[xtensio]: https://xtensio.com/startup-tools/
-[ux-manifesto]: https://medium.com/@ux_in_motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
-
-[ego-design]: https://www.youtube.com/watch?v=eYZoN_HqARc
+[ex-01-f]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/01.flinto
+[ex-02-f]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/02.flinto
+[ex-03-f]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/03.flinto
+[ex-04-f]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/04.flinto
+[ex-05-f]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/05.flinto
+[ex-05-f]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-04/esercizio/05.flinto
