@@ -20,7 +20,7 @@ Materiale e risorse presentati durante la terza lezione del corso di Prototyping
 * Creating Usability with Motion: The UX in Motion Manifesto - [Link][ux-manifesto]
 * Design without Ego | Davide "Folletto" Casali - [Link][ego-design]
 
-[lezione-03-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-02/slide/slide-lezione-03.pdf
+[lezione-03-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/slide/slide-lezione-03.pdf
 
 [ex-01-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/01.sketch
 [ex-02-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-03/esercizio/02.sketch
