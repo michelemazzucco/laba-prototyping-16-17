@@ -11,7 +11,7 @@ Ogni lezione si trova su un branch (link riportati qui sotto).
 * Lezione 04: **I livelli di prototipazione** ([Branch][lezione-04-b] - [Download][lezione-04-z])
 
 ## Programma corso
-Trovate il programma del corso qui: https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
+Trovate il programma del corso [qui][programma].
 
 ## Modalità esame
 L'esame verrà svolto **singolarmente**, niente gruppi di lavoro. La valutazione in sede d'esame sarà basata su:
@@ -33,3 +33,5 @@ Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Non mi 
 [lezione-03-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-03.zip
 [lezione-04-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-04
 [lezione-04-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-04.zip
+
+[programma]:       https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
