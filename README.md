@@ -4,9 +4,9 @@ Materiale e risorse presentati durante la quinta lezione del corso di Prototypin
 
 ## Risorse:
 * Slide Lezione - [Download][lezione-05-s-d]
-* Esercizio 01 - [Download Sketch][ex-01-s] - [Download Flinto][ex-01-k]
-* Esercizio 02 - [Download Sketch][ex-02-s] - [Download Flinto][ex-02-k]
-* Esercizio 03 - [Download Sketch][ex-03-s] - [Download Flinto][ex-03-k]
+* Esercizio 01 - [Download Sketch][ex-01-s] - [Download Kite][ex-01-k]
+* Esercizio 02 - [Download Sketch][ex-02-s] - [Download Kite][ex-02-k]
+* Esercizio 03 - [Download Sketch][ex-03-s] - [Download Kite][ex-03-k]
 
 ## Link utili per Kite:
 * Kite Documentation - [Link][kite-doc]
