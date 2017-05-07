@@ -1,0 +1,64 @@
+{
+  "activeCanvasInfo" : 4,
+  "canvasInfos" : [
+    {
+      "presentationOptions" : {
+        "canvasScale" : 0,
+        "initialPlaybackDelay" : 0,
+        "cursor" : 2
+      },
+      "canvasSize" : "{375, 667}",
+      "name" : "Button",
+      "timelineManager" : {
+        "pointsPerSecond" : 200
+      },
+      "canvasID" : 1,
+      "uuid" : "73DD1FB1-3423-4B70-A4F1-FF9849CD63EE"
+    },
+    {
+      "presentationOptions" : {
+        "canvasScale" : 0,
+        "initialPlaybackDelay" : 0,
+        "cursor" : 2
+      },
+      "canvasSize" : "{375, 667}",
+      "name" : "Check Box",
+      "timelineManager" : {
+        "pointsPerSecond" : 200
+      },
+      "canvasID" : 2,
+      "uuid" : "06001FD3-40CE-4BB0-8C00-FDB43E998F71"
+    },
+    {
+      "presentationOptions" : {
+        "canvasScale" : 0,
+        "initialPlaybackDelay" : 0,
+        "cursor" : 2
+      },
+      "canvasSize" : "{375, 667}",
+      "name" : "Heart",
+      "timelineManager" : {
+        "pointsPerSecond" : 200
+      },
+      "canvasID" : 3,
+      "uuid" : "9B61A1B3-EDB5-46B4-994A-238923D53C39"
+    },
+    {
+      "presentationOptions" : {
+        "canvasScale" : 0,
+        "initialPlaybackDelay" : 0,
+        "cursor" : 2
+      },
+      "canvasSize" : "{375, 667}",
+      "timelineManager" : {
+        "pointsPerSecond" : 200
+      },
+      "canvasID" : 4,
+      "uuid" : "197CC533-FEBD-4C42-B96C-27A977E91C04"
+    }
+  ],
+  "createdWithVersion" : "9",
+  "lastSavedWithVersion" : "9",
+  "creationDate" : "2017-05-06T17:15:43+02:00",
+  "uuid" : "9627504D-9385-430E-90ED-AAA758897B46"
+}

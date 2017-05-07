@@ -1,37 +1,28 @@
-# LABA - Corso prototyping A.A.2016-2017
+# Lezione 05
 
-Il repo contiene il materiale, le slide e gli esercizi eseguiti durante le lezioni di Prototyping dell' A.A.2016-2017 presso la [Libera Accademia di Belle Arti - LABA][laba].
+Materiale e risorse presentati durante la quinta lezione del corso di Prototyping.
 
-## Elenco lezioni:
-Ogni lezione si trova su un branch (link riportati qui sotto).
+## Risorse:
+* Slide Lezione - [Download][lezione-05-s-d]
+* Esercizio 01 - [Download Sketch][ex-01-s] - [Download Flinto][ex-01-k]
+* Esercizio 02 - [Download Sketch][ex-02-s] - [Download Flinto][ex-02-k]
+* Esercizio 03 - [Download Sketch][ex-03-s] - [Download Flinto][ex-03-k]
 
-* Lezione 01: **Introduzione** ([Branch][lezione-01-b] - [Download][lezione-01-z])
-* Lezione 02: **Cosa è il prototipo?** ([Branch][lezione-02-b] - [Download][lezione-02-z])
-* Lezione 03: **Perchè prototipare?** ([Branch][lezione-03-b] - [Download][lezione-03-z])
-* Lezione 04: **I livelli di prototipazione** ([Branch][lezione-04-b] - [Download][lezione-04-z])
+## Link utili per Kite:
+* Kite Documentation - [Link][kite-doc]
+* Kite Showcase - [Link][kite-showcase]
+* Kite Tutorials - [Link][kite-tut]
 
-## Programma corso
-Trovate il programma del corso [qui][programma].
+[lezione-05-s-d]:    https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/slide/slide-lezione-05.pdf
 
-## Modalità esame
-L'esame verrà svolto **singolarmente**, niente gruppi di lavoro. La valutazione in sede d'esame sarà basata su:
-* **70%** parte teorica
-* **30%** parte pratica
+[ex-01-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/esercizio/01.sketch
+[ex-02-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/esercizio/02.sketch
+[ex-03-s]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/esercizio/03.sketch
 
-#### Parte teorica
-Serie di domande sulla parte teorica spiegata in classe.
+[ex-01-k]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/esercizio/01.kite
+[ex-02-k]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/esercizio/02.kite
+[ex-03-k]: https://github.com/michelemazzucco/laba-prototyping-16-17/raw/lezione-05/esercizio/03.kite
 
-#### Parte pratica
-Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Non mi serviranno ne particolari motivazioni di design e ne il come avete risolto i problemi essendo, probabilmente, prodotti fini a se stessi. **Vi potrei però porre domande inerenti la prototipazione** in sé (ad es. vi potrei chiedere la motivazione del perchè avete scelto un determinato tipo di fedeltà). In ogni caso **non importa il software utilizzato**, gli esercizi posso essere realizzati con lo stesso software o con software diversi (anche da quelli presentati a lezione).
-
-[laba]:            http://laba.edu/
-[lezione-01-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-01
-[lezione-01-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-01.zip
-[lezione-02-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-02
-[lezione-02-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-02.zip
-[lezione-03-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-03
-[lezione-03-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-03.zip
-[lezione-04-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-04
-[lezione-04-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-04.zip
-
-[programma]:       https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
+[kite-doc]: https://kiteapp.co/documentation
+[kite-showcase]: https://kiteapp.co/showcase
+[kite-tut]: https://kiteapp.co/tutorials
