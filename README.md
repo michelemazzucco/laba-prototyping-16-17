@@ -2,7 +2,7 @@
 
 Il repo contiene il materiale, le slide e gli esercizi eseguiti durante le lezioni di Prototyping dell' A.A.2016-2017 presso la [Libera Accademia di Belle Arti - LABA][laba].
 
-## Elenco lezioni:
+## Elenco lezioni
 Ogni lezione si trova su un branch (link riportati qui sotto).
 
 * **Lezione 01**  
@@ -24,10 +24,10 @@ L'esame verrà svolto **singolarmente**, niente gruppi di lavoro. La valutazione
 * **70%** parte teorica
 * **30%** parte pratica
 
-#### Parte teorica
+### Parte teorica
 Serie di domande sulla parte teorica spiegata in classe.
 
-#### Parte pratica
+### Parte pratica
 Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Non mi serviranno ne particolari motivazioni di design e ne il come avete risolto i problemi essendo, probabilmente, prodotti fini a se stessi. **Vi potrei però porre domande inerenti la prototipazione** in sé (ad es. vi potrei chiedere la motivazione del perchè avete scelto un determinato tipo di fedeltà). In ogni caso **non importa il software utilizzato**, gli esercizi posso essere realizzati con lo stesso software o con software diversi (anche da quelli presentati a lezione).
 
 [laba]:            http://laba.edu/
