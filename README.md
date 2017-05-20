@@ -9,7 +9,7 @@ Ogni lezione si trova su un branch (link riportati qui sotto).
 Introduzione | [Branch][lezione-01-b] - [Download][lezione-01-z]
 * **Lezione 02**  
 Cosa è il prototipo? | [Branch][lezione-02-b] - [Download][lezione-02-z]
-* **Lezione 03:**  
+* **Lezione 03**  
 Perchè prototipare? | [Branch][lezione-03-b] - [Download][lezione-03-z]
 * **Lezione 04**  
 I livelli di prototipazione | [Branch][lezione-04-b] - [Download][lezione-04-z]
