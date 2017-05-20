@@ -14,7 +14,7 @@ Perchè prototipare? | [Branch][lezione-03-b] - [Download][lezione-03-z]
 * **Lezione 04**  
 I livelli di prototipazione | [Branch][lezione-04-b] - [Download][lezione-04-z]
 * **Lezione 05**  
-I livelli di prototipazione | [Branch][lezione-05-b] - [Download][lezione-05-z]
+Processo di prototipazione | [Branch][lezione-05-b] - [Download][lezione-05-z]
 
 ## Programma corso
 Trovate il programma del corso [qui][programma].
