@@ -15,6 +15,8 @@ Perchè prototipare? | [Branch][lezione-03-b] - [Download][lezione-03-z]
 I livelli di prototipazione | [Branch][lezione-04-b] - [Download][lezione-04-z]
 * **Lezione 05**  
 Processo di prototipazione | [Branch][lezione-05-b] - [Download][lezione-05-z]
+* **Lezione 06**  
+Processo di prototipazione | [Branch][lezione-06-b] - [Download][lezione-06-z]
 
 ## Programma corso
 Trovate il programma del corso [qui][programma].
@@ -41,5 +43,7 @@ Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Non mi 
 [lezione-04-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-04.zip
 [lezione-05-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-05
 [lezione-05-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-05.zip
+[lezione-06-b]:    https://github.com/michelemazzucco/laba-prototyping-16-17/tree/lezione-06
+[lezione-06-z]:    https://github.com/michelemazzucco/laba-prototyping-16-17/archive/lezione-06.zip
 
 [programma]:       https://docs.google.com/document/d/1VJfyYe66XFqD6hpsJOhLkGUU1D2FXe0t7H7NDeF5u18/edit#heading=h.xzwoekkpgdag
